@@ -1,0 +1,10 @@
+F:\学习\Beagle Boys Pizza\Beagle Boys Pizza\bin\Debug\Beagle Boys Pizza.exe.config
+F:\学习\Beagle Boys Pizza\Beagle Boys Pizza\bin\Debug\Beagle Boys Pizza.exe
+F:\学习\Beagle Boys Pizza\Beagle Boys Pizza\bin\Debug\Beagle Boys Pizza.pdb
+F:\学习\Beagle Boys Pizza\Beagle Boys Pizza\obj\Debug\Beagle Boys Pizza.csprojAssemblyReference.cache
+F:\学习\Beagle Boys Pizza\Beagle Boys Pizza\obj\Debug\Beagle_Boys_Pizza.Properties.Resources.resources
+F:\学习\Beagle Boys Pizza\Beagle Boys Pizza\obj\Debug\Beagle Boys Pizza.csproj.GenerateResource.cache
+F:\学习\Beagle Boys Pizza\Beagle Boys Pizza\obj\Debug\Beagle Boys Pizza.csproj.CoreCompileInputs.cache
+F:\学习\Beagle Boys Pizza\Beagle Boys Pizza\obj\Debug\Beagle Boys Pizza.exe
+F:\学习\Beagle Boys Pizza\Beagle Boys Pizza\obj\Debug\Beagle Boys Pizza.pdb
+F:\学习\Beagle Boys Pizza\Beagle Boys Pizza\obj\Debug\Beagle_Boys_Pizza.Form1.resources
